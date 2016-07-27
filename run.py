@@ -1,2 +1,6 @@
-from app import app
-app.run(debug = True)
+#!/usr/bin/env python
+
+from ruler import app
+
+if __name__ == "__main__":
+    app.run(debug=True)

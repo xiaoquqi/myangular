@@ -1,0 +1,4 @@
+Flask-Testing
+flake8
+nose
+nose-testconfig
